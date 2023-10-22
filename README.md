@@ -10,3 +10,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Some Stats 〽
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonlopez&layout=compact&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamiltonlopez&show_icons=true&theme=midnight-purple )
+
+
